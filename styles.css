@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+header .logo {
+    max-width: 150px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+nav ul li a.active,
+nav ul li a:hover {
+    background-color: #ddd;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.office-image {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro-text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-text h2 {
+    color: #0074cc;
+    margin-bottom: 10px;
+}
+
+.appointment-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #0074cc;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.appointment-button:hover {
+    background-color: #005999;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: centerTo update your website on Google Sites to match the look and feel of the PhysioMohd homepage as shown in the screenshot, follow these steps:
+
+### 1. Access Google Sites
+- Visit [Google Sites](https://sites.google.com/) and sign in with your Google account.
+- Create a new site by clicking on the "+" button.
+
+### 2. Create the Homepage
+- **Header:** Add a logo image by clicking on the header and selecting "Change logo". Use an image similar to the one shown in the screenshot.
+- **Navigation Bar:** Add menu items: Home, Therapy, About Me, Contact, and Login.
+  
+  ### Home Page:
+  - Add a section with a background image similar to the one in the screenshot.
+  - Add a text box with "Welcome to my practice in Grünwald" and details about Amjad Mohammad.
+  - Add an image widget to display the office photo.
+  - Add a button widget for "Make an Appointment" and link it to an appointment booking form or page.
+
+### 3. Create Other Pages
+- **Therapy Page:**
+  - Add a title: "Therapy Services".
+  - Add a text box listing the therapy services.
+  
+- **About Me Page:**
+  - Add a title: "About Me".
+  - Add a text box with information about Amjad Mohammad.
+  
+- **Contact Page:**
+  - Add a title: "Contact".
+  - Add a text box with contact details.
+  - Add a form widget for visitors to send messages.
+
+### 4. Customize Design
+- **Themes:** Use the Themes tab to select a theme that closely matches the design shown in the screenshot.
+- **Fonts and Colors:** Adjust the fonts and colors to match the styling, using the customization options available in Google Sites.
+
+### 5. Publish the Site
+- Click on the "Publish" button.
+- Choose a web address and configure visibility settings.
+- Publish the site.
+
+### Example Google Sites Configuration
+- **Header Image:** Add a custom header image to resemble the banner in the screenshot.
+- **Logo:** Use a similar logo image.
+- **Button Style:** Customize buttons to match the "Make an Appointment" button style.
+
+### Additional Tips
+- Use high-quality images and consistent fonts for a professional look.
+- Ensure that the site is responsive and looks good on both desktop and mobile devices.
+
+By following these steps, you can create a Google Sites website with a design that closely resembles the PhysioMohd homepage as shown in your screenshot.

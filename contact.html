@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhysioMohd - Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="PhysioMohd Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">home</a></li>
+                <li><a href="therapy.html">therapy</a></li>
+                <li><a href="about.html">about me</a></li>
+                <li><a href="contact.html" class="active">contact</a></li>
+                <li><a href="login.html">login</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="content">
+            <h2>Contact</h2>
+            <p>If you have any questions or would like to get in touch, please use the form below or contact me directly at <a href="mailto:info@physiomohd.com">info@physiomohd.com</a>.</p>
+            <form action="submit_contact.php" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 by PhysioMohd. <a href="imprint.html">Imprint</a></p>
+    </footer>
+</body>
+</html>
